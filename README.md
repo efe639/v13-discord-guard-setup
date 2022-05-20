@@ -1,2 +1,5 @@
-# v13-discord-guard-setup
-içinde database ve tarayici sistemininde bulunduğu setuplu guard botumu paylaşıyorum 3 - 4 saat içinde yapılmış bir bottur hata olursa yazın (✰ Rowy#0013)
+# Star istemiyorum alın kullanın
+- Hata olması halinde bana discorddan ulaşabilirsiniz. (✰ Rowy#0013)
+
+# Bot görselleri
+- js dosyalarınıda paylaşınca eklicem.
